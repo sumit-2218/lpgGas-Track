@@ -15,8 +15,8 @@ Features
 ⸻
 
 Tech Stack
-	•	Frontend: React, React Router, Axios, CSS
-	•	Backend: Spring Boot, Spring Data JPA, Hibernate
+	•	Frontend: React js CSS
+	•	Backend: Spring Boot
 	•	Database: MySQL
 	•	Version Control: Git, GitHub
 
@@ -35,7 +35,7 @@ lpg-frontend/
 │  │  ├─ DistributorDashboard.js
 │  │  ├─ Login.js
 │  │  └─ Register.js
-│  ├─ services/api.js         # Axios instance
+│  ├─ services/api.js         
 │  └─ App.js
 ├─ public/
 ├─ package.json
