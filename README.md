@@ -29,27 +29,16 @@ Frontend (lpg-frontend
 lpg-frontend/
 ├─ src/
 │  ├─ pages/                  # Page components
-
 │  │  ├─ BookingPage.js
-
 │  │  ├─ CustomerDashboard.js
-
 │  │  ├─ AdminDashboard.js
-
 │  │  ├─ DistributorDashboard.js
-
 │  │  ├─ Login.js
-
 │  │  └─ Register.js
-
 │  ├─ services/api.js
-
 │  └─ App.js
-
 ├─ public/
-
 ├─ package.json
-
 └─ README.md
 
 
@@ -58,25 +47,15 @@ Backend (lpg-backend)
 lpg-backend/
 
 ├─ src/main/java/com/example/lpgsystem/
-
 │  ├─ controller/             # API controllers
-
 │  │  └─ bookingController.java
-
 │  ├─ model/                  # JPA entities
-
 │  │  └─ Booking.java
-
 │  ├─ repository/             # Spring Data repositories
-
 │  └─ LpgsystemApplication.java
-
 ├─ src/main/resources/
-
 │  └─ application.properties
-
 ├─ pom.xml
-
 └─ README.md
 
 Usage
